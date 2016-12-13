@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 55db76accf2468a48b0c4f929e3e98bc
+timeCreated: 1474229659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Font_0
+    21300002: Font_1
+    21300004: Font_2
+    21300006: Font_3
+    21300008: Font_4
+    21300010: Font_5
+    21300012: Font_6
+    21300014: Font_7
+    21300016: Font_8
+    21300018: Font_9
+    21300020: Font_10
+    21300022: Font_11
+    21300024: Font_12
+    21300026: Font_13
+    21300028: Font_14
+    21300030: Font_15
+    21300032: Font_16
+    21300034: Font_17
+    21300036: Font_18
+    21300038: Font_19
+    21300040: Font_20
+    21300042: Font_21
+    21300044: Font_22
+    21300046: Font_23
+    21300048: Font_24
+    21300050: Font_25
+    21300052: Font_26
+    21300054: Font_27
+    21300056: Font_28
+    21300058: Font_29
+    21300060: Font_30
+    21300062: Font_31
+    21300064: Font_32
+    21300066: Font_33
+    21300068: Font_34
+    21300070: Font_35
+    21300072: Font_36
+    21300074: Font_37
+    21300076: Font_38
+    21300078: Font_39
+    21300080: Font_40
+    21300082: Font_41
+    21300084: Font_42
+    21300086: Font_43
+    21300088: Font_44
+    21300090: Font_45
+    21300092: Font_46
+    21300094: Font_47
+    21300096: Font_48
+    21300098: Font_49
+    21300100: Font_50
+    21300102: Font_51
+    21300104: Font_52
+    21300106: Font_53
+    21300108: Font_54
+    21300110: Font_55
+    21300112: Font_56
+    21300114: Font_57
+    21300116: Font_58
+    21300118: Font_59
+    21300120: Font_60
+    21300122: Font_61
+    21300124: Font_62
+    21300126: Font_63
+    21300128: Font_64
+    21300130: Font_65
+    21300132: Font_66
+    21300134: Font_67
+    21300136: Font_68
+    21300138: Font_69
+    21300140: Font_70
+    21300142: Font_71
+    21300144: Font_72
+    21300146: Font_73
+    21300148: Font_74
+    21300150: Font_75
+    21300152: Font_76
+    21300154: Font_77
+    21300156: Font_78
+    21300158: Font_79
+    21300160: Font_80
+    21300162: Font_81
+    21300164: Font_82
+    21300166: Font_83
+    21300168: Font_84
+    21300170: Font_85
+    21300172: Font_86
+    21300174: Font_87
+    21300176: Font_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Font_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -5.5}
+        - {x: 15, y: 6.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: 11.5}
+        - {x: 10, y: 18.5}
+        - {x: -10, y: 18.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -17.5}
+        - {x: -15, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: -3.5}
+        - {x: 15, y: -2.5}
+    - name: Font_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -17, y: 3.5}
+        - {x: -17, y: -13.5}
+        - {x: -7, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: 9.5}
+        - {x: 14, y: 18.5}
+    - name: Font_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18.5}
+        - {x: -16.5, y: -18.5}
+        - {x: 3.5, y: -18.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 4.5, y: 18.5}
+    - name: Font_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Font_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 8
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
